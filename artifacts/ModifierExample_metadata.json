@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_newOwner",
+						"type": "address"
+					}
+				],
+				"name": "changerOwner",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"DTH225710-LeTriNhan/lab11.sol": "ModifierExample"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"DTH225710-LeTriNhan/lab11.sol": {
+			"keccak256": "0x1e210909acf12c3e52fb1c390c1334640ae005c89fbb690bf1b028b5f8806233",
+			"license": "DTH225710-Le Tri Nhan",
+			"urls": [
+				"bzz-raw://f63b3e54a215b1394d45abece1a46f4b631b58cae79b719cd6482ab3c51abdb2",
+				"dweb:/ipfs/Qmef2bQbAVCvmrQfEBca9CYN12BH5ziBGwTiPYdwMgB7WD"
+			]
+		}
+	},
+	"version": 1
+}

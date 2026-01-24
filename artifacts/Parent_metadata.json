@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greetInParent",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"DTH225710-LeTriNhan/lab15.sol": "Parent"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"DTH225710-LeTriNhan/lab15.sol": {
+			"keccak256": "0x2d3a3fb59cc603e8c49d8cb6206ea57b52c0050136f5db94fc7ccb5933bb7504",
+			"license": "DTH225710-Le Tri Nhan",
+			"urls": [
+				"bzz-raw://f16636f9f114f5c6ccaa3e13fbadf755368a66de4760817ceeb55b69e35b7100",
+				"dweb:/ipfs/QmdnVzo96JuiCadNousHcMugcLnEEudd92P33um49WDcce"
+			]
+		}
+	},
+	"version": 1
+}
